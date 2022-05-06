@@ -69,7 +69,7 @@ heroku create <name-of-app>
 Add our environment variables as configuration variables to our Heroku project.
 
 ```
-heroku config:set API_KEY=<YOUR MOVIE API>
+heroku config:set API_KEY=<YOUR API_KEY>
 
 heroku config:set SECRET_KEY=<YOUR SECRET KEY>
 ```
