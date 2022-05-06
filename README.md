@@ -155,9 +155,8 @@ heroku run python3.8 manage.py db upgrade
 
 
 
-<p align = "center">
-    &copy;2022 Reuben Kipkemboi.
+<mark>*<p align = "center"> &copy;2022 Reuben Kipkemboi.</p>*</mark>
     
-</p>
+
 
 
