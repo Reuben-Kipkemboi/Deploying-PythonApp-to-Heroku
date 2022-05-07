@@ -85,7 +85,7 @@ git commit -m "deployment to heroku / any commit message"
 git push heroku master
 
 ```
-# **Deployment of your previous project after integrating Database**
+# **Deployment of Database Applications to Heroku**
 
 ### We need to now configure our Heroku server for deployment
 <ol>
@@ -155,7 +155,7 @@ heroku run python3.8 manage.py db upgrade
 
 
 
-<mark>*<p align = "center"> &copy;2022 Reuben Kipkemboi.</p>*</mark>
+*<p align = "center"> &copy;2022 Reuben Kipkemboi.</p>*
     
 
 
